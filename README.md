@@ -1,3 +1,3 @@
 # DevOps
 Working on DevOps 
-MCA Department GIT College
+MCA Department GIT College.
